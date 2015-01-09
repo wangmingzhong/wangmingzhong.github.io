@@ -4,7 +4,7 @@ title: "25个必须记住的SSH命令"
 modified:
 categories: blog
 excerpt:
-tags: [SSH，OpenSSH，命令]
+tags: [SSH]
 image:
 comments: true
 share: true

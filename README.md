@@ -1,9 +1,9 @@
 
 -------------------
 
-### Wangmingzhong.github.io
+### ipoler.github.io
 
-> 技术交流与心得分享的平台    —— [我的网络日志](https://wangmingzhong.github.io)
+> 技术交流与心得分享的平台    —— [我的网络日志](https://ipoler.github.io)
 
 - **功能丰富** ：支持高亮代码块、插入 *LaTex* 公式，工作学习好帮手
 - **得心应手** ：支持插入图片，无论是本地上传/图片URL/拖放图片/直接截图粘贴，随心所欲
