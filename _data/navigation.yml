@@ -1,27 +1,27 @@
 # Site navigation links
  
-- title: 主页
+- title: 主  页
   url: /
    
-- title: 干货
+- title: 干  货
   url: /articles/
   
-- title: 归档
+- title: 归  档
   url: /tags/
   
-- title: 文章
+- title: 文  章
   url: /blog/
   
-- title: 工具
+- title: 工  具
   url: /blog/
   
-- title: 文档
-  url: http://blog.slogra.com/about.html/
-  
-- title: 下载
+- title: 文  档
   url: /blog/
   
-- title: 乐乎
+- title: 下  载
+  url: /blog/
+  
+- title: 乐  乎
   url: http://ipaler.lofter.com/
   
 - title: 关于我
